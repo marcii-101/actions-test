@@ -1,1 +1,2 @@
-This file must contain the word "needed"
+This file must contain the word "needed" in uppercase
+so needed != Needed
